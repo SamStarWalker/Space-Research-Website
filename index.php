@@ -11,8 +11,20 @@
 </head>
 <body>
     <header>
-        <h1>Station Command Hub</h1>
+        <h1>Space Research Hub</h1>
         <p>Main Research & Telemetry Dashboard</p>
     </header>
 </body>
+
+
+<style>
+    body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdona, sans-serif;
+        margin: 0;
+        padding: 40;
+    }
+</style>
+
 </html>
